@@ -127,3 +127,6 @@ dist
 .pnp.*
 
 tests/samples/**
+*.har
+*.exe
+.vscode/tasks.json
